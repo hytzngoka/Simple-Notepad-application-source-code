@@ -1,0 +1,5 @@
+Convert windowui to .py:
+
+pip install pyqt6, and install QT designer.
+1. Change file directory.
+2. use this to convert : pyuic6 -x WindowUI.ui -o windowui.py
